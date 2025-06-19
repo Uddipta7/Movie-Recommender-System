@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-📁 Project Structure
+## 📁 Project Structure
 ```bash
 ├── app.py                  # Streamlit app
 ├── movies.csv              # Movie metadata
